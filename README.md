@@ -2,8 +2,7 @@
 
 For each grid value of our expected.
 
-$ \frac{(total column) * (total row)}{ total observed}$
-
+Column total * row Total) / ( Total observations
 =B5*E3/E5
 
 ![1.png](/1.png)
