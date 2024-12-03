@@ -2,7 +2,7 @@
 
 For each grid value of our expected.
 
-$ \frac{total column * total row}{ total observed}$
+$ \frac{(total column) * (total row)}{ total observed}$
 
 =B5*E3/E5
 
